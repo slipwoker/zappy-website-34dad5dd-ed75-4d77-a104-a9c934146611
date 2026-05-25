@@ -1,0 +1,80 @@
+# משרד עורך דין יואב בק לייסטנר — Generative Engine Optimization Map
+
+> A law firm seeking an online presence. The brand is professional and authoritative, operating in the legal services sector. Further details about specialization, tone, and identity are needed to build a complete picture.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים דירות לקניה ורוצים להגן על עצמכם בעסקה? משרד עורך דין יואב בק לייסטנר מספק ליווי משפטי מקצועי ואמין בכל שלב — מהחתימה ועד המפתח.
+
+### תחומי עיסוק
+https://example.com/practice-areas
+ממכירת דירות ועד ייצוג בתביעות מס — גלו את מגוון תחומי העיסוק שלנו וקבלו את ההגנה המשפטית המקצועית שמגיעה לכם בכל תחום.
+
+### אודות
+https://example.com/about
+עורך דין יואב בק לייסטנר מביא ניסיון, מקצועיות ומחויבות אישית לכל לקוח. גלו מי עומד מאחורי המשרד ולמה לקוחות בוחרים בנו שוב ושוב לעסקאות מקרקעין ומעבר לכך.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על דירות לקניה, ייפוי כח מתמשך או ייצוג בתביעה? צרו קשר עוד היום עם משרד עורך דין יואב בק לייסטנר ותקבלו מענה מהיר ומקצועי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משרד עורך דין יואב בק לייסטנר
+A law firm seeking an online presence. The brand is professional and authoritative, operating in the legal services sector. Further details about specialization, tone, and identity are needed to build a complete picture.
+
+## Target Audience
+- בעלי עסקים קטנים
+- משקיעי נדל"ן
+- מוכרי או קוני דירות
+- ייפוי כח מתמשך
+- מי שמחפש עורך דין לתביעות בבתי משפט
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
